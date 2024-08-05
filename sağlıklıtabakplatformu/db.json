@@ -1,0 +1,655 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "favorites": [
+        "salataIki"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "jane@example.com"
+    },
+    {
+      "id": "f9d0",
+      "name": "Hidayet ",
+      "surname": "Takçı",
+      "email": "hidayettakci@gmail.com",
+      "password": "6060",
+      "gender": "men",
+      "birthDate": "2010-8-16",
+      "favorites": []
+    },
+    {
+      "id": "b87f",
+      "name": "Abdurrahman",
+      "surname": "Demir",
+      "email": "abdurrahmandemir@gmail.com",
+      "password": "8080",
+      "gender": "men",
+      "birthDate": "2008-12-18",
+      "favorites": [
+        "salataBir"
+      ]
+    },
+    {
+      "id": "d176",
+      "name": "Turan",
+      "surname": "Demirrrrr",
+      "email": "t_demir60@hotmail.com",
+      "password": "9090",
+      "gender": "men",
+      "birthDate": "2002-02-20",
+      "favorites": [
+        "salataIki",
+        "salataUc"
+      ]
+    },
+    {
+      "id": "9f09",
+      "name": "Zehra Betüll",
+      "surname": "Demir",
+      "email": "zehra20betulll@gmail.com",
+      "password": "9090",
+      "gender": "woman",
+      "birthDate": "2002-02-20",
+      "favorites": [
+        "salataUc",
+        "anayemekIki",
+        "veganIki",
+        "atistirmalikUc"
+      ],
+      "favoriteRecipes": []
+    },
+    {
+      "id": "bde9"
+    },
+    {
+      "id": "ffb9"
+    },
+    {
+      "id": "8df5"
+    },
+    {
+      "id": "9f6a",
+      "name": "Zehra",
+      "surname": "Demir",
+      "email": "zehra20betuuuuuuul@gmail.com",
+      "password": "3030",
+      "gender": "woman",
+      "birthDate": "2014-09-15"
+    },
+    {
+      "id": "8f36",
+      "name": "Nurhayat ",
+      "surname": "Demir",
+      "email": "nurhayatdemir@gmail.com",
+      "password": "3030",
+      "gender": "woman",
+      "birthDate": "2015-07-26"
+    },
+    {
+      "id": "1f0a",
+      "name": "Zehra",
+      "surname": "Demir",
+      "email": "zehra20betul@gmail.com",
+      "password": "6060",
+      "gender": "woman",
+      "birthDate": "2016-03-17"
+    },
+    {
+      "id": "39a8",
+      "name": "Zehra",
+      "surname": "Demir",
+      "email": "zehra20betul@gmail.com",
+      "password": "4040",
+      "gender": "man",
+      "birthDate": "2009-10-16"
+    },
+    {
+      "id": "fac9",
+      "name": "Zehra",
+      "surname": "Demir",
+      "email": "zehra20betul@gmail.com",
+      "password": "9090",
+      "gender": "man",
+      "birthDate": "2010-08-17"
+    },
+    {
+      "id": "f9d0",
+      "name": "Hidayet ",
+      "surname": "Takçı",
+      "email": "hidayettakci@gmail.com",
+      "password": "6060",
+      "gender": "man",
+      "birthDate": "2010-8-16"
+    },
+    {
+      "id": "8077",
+      "name": "Nurhayat ",
+      "surname": "demir",
+      "email": "nurhayatdemirrrr@gmail.com",
+      "password": "8080",
+      "gender": "woman",
+      "birthDate": "2011-07-14"
+    },
+    {
+      "id": "e220",
+      "name": "Zehra Betül",
+      "surname": "Demir",
+      "email": "z.betuuull@gmail.com",
+      "password": "6060",
+      "gender": "woman",
+      "birthDate": "2021-03-16"
+    },
+    {
+      "id": "99f0",
+      "name": "Zehra Betül",
+      "surname": "Demir",
+      "email": "z.btl@gmail.com",
+      "password": "6060",
+      "gender": "woman",
+      "birthDate": "2017-06-13"
+    },
+    {
+      "id": "32fa",
+      "name": "hayriye ",
+      "surname": "sevilmiş",
+      "email": "hayriyesevilmis@gmail.com",
+      "password": "1010",
+      "gender": "woman",
+      "birthDate": "1957-01-01",
+      "favorites": [
+        "salataIki"
+      ]
+    },
+    {
+      "id": "c87a",
+      "name": "Zehra Betül",
+      "surname": "Demir",
+      "email": "zehra40betulll@gmail.com",
+      "password": "1010",
+      "gender": "woman",
+      "birthDate": "2006-09-18"
+    },
+    {
+      "id": "98b1",
+      "name": "betüş",
+      "surname": "demir",
+      "email": "betus@gmail.com",
+      "password": "2020",
+      "gender": "woman",
+      "birthDate": "2002-02-20"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "First Post",
+      "author": "John Doe"
+    },
+    {
+      "id": "2",
+      "title": "Second Post",
+      "author": "Jane Doe"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1720400058521",
+      "comment": "s.lclxlcşmöxlşcmlşcmcl",
+      "rating": 2,
+      "username": "Zehra Betül Demirrrr"
+    },
+    {
+      "id": "1720435152973",
+      "comment": "xlöcöcöcöc",
+      "rating": 2,
+      "username": "Zehra Betül Demirrrr",
+      "userId": "9f09"
+    },
+    {
+      "id": "1720448898343",
+      "comment": "mnmkmön",
+      "rating": 2,
+      "username": "Zehra Betül Demirrrr",
+      "userId": "9f09"
+    },
+    {
+      "id": "1720449439936",
+      "comment": "DENEME",
+      "rating": 4,
+      "username": "Zehra Betül Demir",
+      "userId": "4a6c"
+    },
+    {
+      "id": "1720449476855",
+      "comment": "DENEME1",
+      "rating": 3,
+      "username": "Turan Demirrrrr",
+      "userId": "d176"
+    },
+    {
+      "id": "1720449567748",
+      "comment": "lşcmxcmcxm",
+      "rating": 3,
+      "username": "Turan Demirrrrr",
+      "userId": "d176"
+    },
+    {
+      "id": "1720449577782",
+      "comment": "c.lxöc.çcö",
+      "rating": 3,
+      "username": "Turan Demirrrrr",
+      "userId": "d176"
+    },
+    {
+      "id": "1720450270596",
+      "comment": "deneme3",
+      "rating": 2,
+      "username": "Turan Demirrrrr",
+      "userId": "d176"
+    },
+    {
+      "id": "1720451044205",
+      "comment": "smxmçcmxmcmcç",
+      "rating": 5,
+      "userId": "4a6c"
+    },
+    {
+      "id": "1720453007546",
+      "comment": "çxcö.xöc.öcx.öc",
+      "rating": 3,
+      "username": "Turan Demirrrrr",
+      "userId": "d176"
+    },
+    {
+      "id": "1720453021767",
+      "comment": "xçcöçx.xc",
+      "rating": 4,
+      "username": "Zehra Betül Demir",
+      "userId": "4a6c"
+    },
+    {
+      "id": "1720453729230",
+      "comment": "denemeee",
+      "rating": 4,
+      "username": "Turan Demirrrrr",
+      "userId": "d176"
+    },
+    {
+      "id": "1720456240669",
+      "comment": "son",
+      "rating": 2,
+      "username": "Betüş Demir",
+      "userId": "6c62"
+    },
+    {
+      "id": "1720477064022",
+      "comment": "cvbvb",
+      "rating": 4,
+      "username": "Zehra Betül Demirrrr",
+      "userId": "9f09"
+    },
+    {
+      "id": "1720479369334",
+      "comment": "CGBV",
+      "rating": 3,
+      "username": "Zehra Betül Demirrrr",
+      "userId": "9f09"
+    },
+    {
+      "id": "1720479749393",
+      "comment": " bvbbvb",
+      "rating": 2,
+      "username": "Zehra Betül Demirrrr",
+      "userId": "9f09",
+      "salata": "Mevsim Salatası"
+    },
+    {
+      "id": "1720480929867",
+      "comment": "xccxc",
+      "rating": 5,
+      "username": "Zehra Betül Demirrrr",
+      "userId": "9f09"
+    },
+    {
+      "id": "1720481460464",
+      "comment": "cxcvcv",
+      "rating": 4,
+      "username": "Zehra Betül Demirrrr",
+      "userId": "9f09"
+    },
+    {
+      "id": "1720482135877",
+      "comment": "deneme",
+      "rating": 5,
+      "username": "Zehra Betül Demirrrr",
+      "userId": "9f09",
+      "salata": "Kinoa Salatası"
+    },
+    {
+      "id": "1720482172320",
+      "comment": "deneme1",
+      "rating": 3,
+      "username": "Zehra Betül Demir",
+      "userId": "9f09",
+      "salata": "Kinoa Salatası"
+    },
+    {
+      "id": "1720537991978",
+      "comment": "denme",
+      "rating": 3,
+      "username": "Zehra Betül Demir",
+      "userId": "9f09",
+      "tarif": "Zeytinyağlı Enginar"
+    },
+    {
+      "id": "1720538338682",
+      "comment": "deneme",
+      "rating": 2,
+      "username": "Zehra Betül Demir",
+      "userId": "9f09",
+      "tarif": "Tavada Sebzeli Somon"
+    },
+    {
+      "id": "1720538866500",
+      "comment": "deneme",
+      "rating": 3,
+      "username": "Zehra Betül Demir",
+      "userId": "9f09",
+      "tarif": "Pirinçli Pırasa Yemeği"
+    },
+    {
+      "id": "1720539683785",
+      "comment": "deneme",
+      "rating": 2,
+      "username": "Zehra Betül Demir",
+      "userId": "9f09",
+      "tarif": "Fırınlanmış Nohut Cipsi"
+    },
+    {
+      "id": "1720540055737",
+      "comment": "DENEME",
+      "rating": 2,
+      "username": "Zehra Betül Demir",
+      "userId": "9f09",
+      "tarif": "Tencerede Şekersiz Sufle"
+    },
+    {
+      "id": "1720541288789",
+      "comment": "DENEMEE",
+      "rating": 5,
+      "username": "Zehra Betül Demir",
+      "userId": "9f09",
+      "tarif": "Şekersiz Yulaflı Kurabiye"
+    },
+    {
+      "id": "1720543785554",
+      "comment": "deneme",
+      "rating": 4,
+      "username": "Zehra Betül Demir",
+      "userId": "9f09",
+      "tarif": "Vegan Köfte"
+    },
+    {
+      "id": "1720565659044",
+      "comment": "deneme",
+      "rating": 2,
+      "username": "Ab Demir",
+      "userId": "b87f",
+      "salata": "Brokoli Salatası"
+    },
+    {
+      "id": "1720630867873",
+      "comment": "deneme2",
+      "rating": 5,
+      "username": "Zehra Betül Demir",
+      "userId": "9f09",
+      "salata": "Brokoli Salatası"
+    },
+    {
+      "id": "1720653505144",
+      "comment": "çok iyi",
+      "rating": 5,
+      "username": "Zehra Betül Demir",
+      "userId": "9f09",
+      "salata": "Kinoa Salatası"
+    },
+    {
+      "id": "1720696193437",
+      "comment": "mükemmel",
+      "rating": 2,
+      "username": "hayriye  sevilmiş",
+      "userId": "32fa",
+      "salata": "Brokoli Salatası"
+    },
+    {
+      "id": "1720703651666",
+      "comment": "deneme",
+      "rating": 2,
+      "username": "Zehra Betül Demir",
+      "userId": "9f09",
+      "tarif": "Vegan Köfte"
+    },
+    {
+      "id": "1720703660387",
+      "comment": "fpldldğfv",
+      "rating": 4,
+      "username": "Zehra Betül Demir",
+      "userId": "9f09",
+      "tarif": "Vegan Köfte"
+    },
+    {
+      "id": "1720703721356",
+      "comment": "deneme",
+      "rating": 4,
+      "username": "Zehra Betül Demir",
+      "userId": "9f09",
+      "tarif": "Vegan Köfte"
+    },
+    {
+      "id": "1720703728181",
+      "comment": "denemee",
+      "rating": 3,
+      "username": "Zehra Betül Demir",
+      "userId": "9f09",
+      "salata": "Brokoli Salatası"
+    },
+    {
+      "id": "1720703779929",
+      "comment": "deneme2",
+      "rating": 4,
+      "username": "Zehra Betül Demir",
+      "userId": "9f09",
+      "tarif": "Şekersiz Yulaflı Kurabiye"
+    },
+    {
+      "id": "1720703853633",
+      "comment": "deneme",
+      "rating": 3,
+      "username": "Zehra Betül Demir",
+      "userId": "9f09",
+      "tarif": "Vegan Ekmek"
+    },
+    {
+      "id": "1720738442628",
+      "comment": "deneme2",
+      "rating": 5,
+      "username": "hayriye  sevilmiş",
+      "userId": "32fa",
+      "tarif": "Zeytinyağlı Enginar"
+    },
+    {
+      "id": "1720766396944",
+      "comment": "deneme2\n",
+      "rating": 4,
+      "username": "Zehra Betül Demir",
+      "userId": "9f09",
+      "salata": "Mercimek Salatası"
+    },
+    {
+      "id": "1720766416398",
+      "comment": "çok güzel",
+      "rating": 4,
+      "username": "Zehra Betül Demir",
+      "userId": "9f09",
+      "salata": "Mercimek Salatası"
+    }
+  ],
+  "saladRecipes": [],
+  "recipes": [
+    {
+      "name": "salataBir",
+      "displayName": "Brokoli Salatası",
+      "image": "brokoli.png",
+      "link": "/salatabir",
+      "id": "fbff"
+    },
+    {
+      "name": "salataIki",
+      "displayName": "Mercimek Salatası",
+      "image": "mercimek.png",
+      "link": "/salataiki",
+      "id": "9bc6"
+    },
+    {
+      "name": "salataUc",
+      "displayName": "Kinoa Salatası",
+      "image": "kinoa.png",
+      "link": "/salatauc",
+      "id": "2166"
+    },
+    {
+      "name": "anayemekBir",
+      "displayName": "Tavada Sebzeli Somon",
+      "image": "somon1.png",
+      "link": "/anayemekbir",
+      "id": "579e"
+    },
+    {
+      "name": "anayemekIki",
+      "displayName": "Zeytinyağlı Enginar",
+      "image": "enginar1.png",
+      "link": "/anayemekiki",
+      "id": "2be1"
+    },
+    {
+      "name": "anayemekUc",
+      "displayName": "Pirinçli Pırasa Yemeği",
+      "image": "pirasa1.png",
+      "link": "/anayemekuc",
+      "id": "68c3"
+    },
+    {
+      "name": "corbaBir",
+      "displayName": "Karnabahar Çorbası",
+      "image": "karnabahar1.png",
+      "link": "/corbabir",
+      "id": "627d"
+    },
+    {
+      "name": "corbaIki",
+      "displayName": "Bamya Çorbası",
+      "image": "bamya1.png",
+      "link": "/corbaiki",
+      "id": "39a9"
+    },
+    {
+      "name": "corbaUc",
+      "displayName": "Enginar Çorbası",
+      "image": "enginarcorba1.png",
+      "link": "/corbauc",
+      "id": "88e7"
+    },
+    {
+      "name": "veganBir",
+      "displayName": "Vegan Köfte",
+      "image": "kofte1.png",
+      "link": "/veganbir",
+      "id": "942d"
+    },
+    {
+      "name": "veganIki",
+      "displayName": "Vegan Pancake",
+      "image": "pancake1.png",
+      "link": "/veganiki",
+      "id": "5983"
+    },
+    {
+      "name": "veganUc",
+      "displayName": "Vegan Karabuğday Ekmeği",
+      "image": "ekmek1.png",
+      "link": "/veganuc",
+      "id": "ad90"
+    },
+    {
+      "name": "atistirmalikBir",
+      "displayName": "Fırınlanmış Nohut Cipsi",
+      "image": "nohut1.png",
+      "link": "/atistirmalikbir",
+      "id": "c5bf"
+    },
+    {
+      "name": "atistirmalikIki",
+      "displayName": "Tencerede Şekersiz Sufle",
+      "image": "sufle1.png",
+      "link": "/atistirmalikiki",
+      "id": "01e2"
+    },
+    {
+      "name": "atistirmalikUc",
+      "displayName": "Şekersiz Yulaflı Kurabiye",
+      "image": "kurabiye1.png",
+      "link": "/atistirmalikuc",
+      "id": "50db"
+    }
+  ],
+  "diseases": [
+    {
+      "name": "diyabet",
+      "displayName": "Diyabet",
+      "image": "diyabet.png",
+      "link": "/diyabet",
+      "id": "6033"
+    },
+    {
+      "name": "hipertansiyon",
+      "displayName": "Hipertansiyon",
+      "image": "hipertansiyon.png",
+      "link": "/hipertansiyon",
+      "id": "47dd"
+    },
+    {
+      "name": "çölyak",
+      "displayName": "Çölyak",
+      "image": "colyak.png",
+      "link": "/colyak",
+      "id": "1ef5"
+    },
+    {
+      "name": "kolestrol",
+      "displayName": "Kolestrol",
+      "image": "kolestrol.png",
+      "link": "/kolestrol",
+      "id": "b1d0"
+    },
+    {
+      "name": "gut",
+      "displayName": "Gut",
+      "image": "gut.png",
+      "link": "/gut",
+      "id": "874a"
+    },
+    {
+      "name": "anemi",
+      "displayName": "Anemi",
+      "image": "anemi.png",
+      "link": "/anemi",
+      "id": "79a1"
+    }
+  ]
+}
